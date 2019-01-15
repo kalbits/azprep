@@ -1,4 +1,3 @@
-# AZ-Prep
 
 Your bookmarks to prepare for the [Microsoft Azure certification exams](https://www.microsoft.com/en-us/learning/azure-exams.aspx).
 
