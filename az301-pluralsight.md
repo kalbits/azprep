@@ -2,6 +2,8 @@
 
 Use this handy guide to prepare for the [Microsoft AZ-301 exam: Microsoft Azure Architect Design](https://www.microsoft.com/en-us/learning/exam-az-301.aspx) with [Pluralsight courses](http://www.pluralsight.com). This article maps each exam objective to a Pluralsight course. It will take you about **55 hours** to go through all these courses.
 
+>Courtesy of Microsoft and Pluralsight, you can get access to these courses for FREE! Follow the instructions here: https://help.pluralsight.com/help/microsoft-azure-courses.
+
 The exam is divided in the following high-level domains:
 1. [Determine Workload Requirements](#1-determine-workload-requirements) (10-15%) 
 2. [Design for Identity and Security](#2-design-for-identity-and-security) (20-25%)
