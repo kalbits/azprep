@@ -5,14 +5,14 @@ Use this handy guide to prepare for the [Microsoft AZ-300 exam: Microsoft Azure 
 >Courtesy of Microsoft and Pluralsight, you can get access to these courses for FREE! Follow the instructions here: https://help.pluralsight.com/help/microsoft-azure-courses.
 
 The exam is divided in the following four high-level domains:
-1. [Deploy and Configure Infrastructure](#deploy-and-configure-infrastructure) (20-25%) 
+1. [Deploy and Configure Infrastructure](#deploy-and-configure-infrastructure) (25-30%) 
 2. [Implement Workloads and Security](#implement-workloads-and-security) (20-25%)
 3. [Create and Deploy Apps](#create-and-deploy-apps) (5-10%) 
 4. [Implement Authentication and Secure Data](#implement-authentication-and-secure-data) (5-10%) 
-5. [Develop for the Cloud](#develop-for-the-cloud) (20-25%) 
+5. [Develop for the Cloud and for Azure Storage](#develop-for-the-cloud-and-for-azure-storage) (20-25%) 
 
 ## Deploy and Configure Infrastructure
-This domain carries a weight of 20-25% and is divided in the following objectives. It will take you about **16 hours** to go through these courses. 
+This domain carries a weight of 25-30% and is divided in the following objectives. It will take you about **16 hours** to go through these courses. 
 
 | Id | Exam Objective| Pluralsight Course | Course length |
 |--| ----------- | ----------- |---------------|
@@ -20,10 +20,11 @@ This domain carries a weight of 20-25% and is divided in the following objective
 |1.2|Create and configure storage accounts| [Creating and Configuring Microsoft Azure Storage Accounts](https://app.pluralsight.com/library/courses/microsoft-azure-creating-configuring-storage-accounts)| 3h 20m|
 |1.3|Create and configure a Virtual Machine (VM) for Windows and Linux|[Deploying a Virtual Machine in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-virtual-machine-deploying)|1h 16m|
 |1.4|Automate deployment of Virtual Machines (VMs)|[Deploying Multiple Virtual Machines in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-deploying-multiple-virtual-machines)|1h 20m|
-|1.5|Create connectivity between virtual networks|[Connecting Microsoft Azure Virtual Networks](https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks)|1h 2m|
-|1.6|Implement and manage virtual networking|[Managing Microsoft Azure Virtual Networks](https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks)|1h 39m|
-|1.7|Manage Azure Active Directory (AD)|[Managing Identities in Microsoft Azure Active Directory](https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities)|2h 7m|
-|1.8|Implement and manage hybrid identities|[Microsoft Hybrid Identity - Overview](https://app.pluralsight.com/library/courses/microsoft-hybrid-identity-overview)|2h 56m|
+|1.5|Implement solutions that use virtual machines (VM)|[Provisioning Microsoft Azure Virtual Machines](https://www.pluralsight.com/courses/microsoft-azure-virtual-machines-provisioning)|3h 10m|
+|1.6|Create connectivity between virtual networks|[Connecting Microsoft Azure Virtual Networks](https://app.pluralsight.com/library/courses/microsoft-azure-connecting-virtual-networks)|1h 2m|
+|1.7|Implement and manage virtual networking|[Managing Microsoft Azure Virtual Networks](https://app.pluralsight.com/library/courses/microsoft-azure-implement-manage-virtual-networks)|1h 39m|
+|1.8|Manage Azure Active Directory (AD)|[Managing Identities in Microsoft Azure Active Directory](https://app.pluralsight.com/library/courses/microsoft-azure-active-directory-managing-identities)|2h 7m|
+|1.9|Implement and manage hybrid identities|[Microsoft Hybrid Identity - Overview](https://app.pluralsight.com/library/courses/microsoft-hybrid-identity-overview)|2h 56m|
 
 
 ## Implement Workloads and Security
@@ -56,13 +57,15 @@ This domain carries a weight of 5-10% and is divided in the following objectives
 |4.2|Implement secure data solutions|[Microsoft Azure Developer: Securing Data](https://app.pluralsight.com/library/courses/microsoft-azure-data-securing)|2h 8m| 
 
 
-## Develop for the Cloud 
+## Develop for the Cloud and for Azure Storage 
 This domain carries a weight of 20-25% and is divided in the following objectives. It will take you about **4 hours** to go through these courses. 
 
 |Id |Exam Objective| Pluralsight Course | Course length |
 |--| ----------- | ----------- |---------------|
-|5.1|Configure a message-based integration architecture|[Microsoft Azure Developer: Identifying an Appropriate Integration Solution](https://app.pluralsight.com/library/courses/microsoft-azure-appropriate-integration-solution-identifying)|1h 43m|
-|5.2|Develop for autoscaling|[Microsoft Azure Developer: Developing for Autoscaling](https://app.pluralsight.com/library/courses/microsoft-azure-autoscaling-developing)|1h 44m|
+|5.1|Develop solutions that use Cosmos DB storage|[Learning Azure Cosmos DB](https://www.pluralsight.com/courses/azure-cosmos-db)|6h 6m|
+|5.2|Develop solutions that use a relational database|[Microsoft Azure Developer: Managing Azure SQL Database](https://www.pluralsight.com/courses/microsoft-azure-sql-database-managing)|2h 6m|
+|5.3|Configure a message-based integration architecture|[Microsoft Azure Developer: Identifying an Appropriate Integration Solution](https://app.pluralsight.com/library/courses/microsoft-azure-appropriate-integration-solution-identifying)|1h 43m|
+|5.4|Develop for autoscaling|[Microsoft Azure Developer: Developing for Autoscaling](https://app.pluralsight.com/library/courses/microsoft-azure-autoscaling-developing)|1h 44m|
 
 ***
 Please send your feedback to kalbits@outlook.com
