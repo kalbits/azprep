@@ -1,6 +1,6 @@
 # How to prepare for the Microsoft Exam AZ-300 with Pluralsight courses
 
-Use this handy guide to prepare for the [Microsoft AZ-300 exam: Microsoft Azure Architect Technologies](https://www.microsoft.com/en-us/learning/exam-az-300.aspx) with [Pluralsight courses](http://www.pluralsight.com). This article maps each exam objective to a Pluralsight course. It will take you about **50 hours** to go through all these courses.
+Use this handy guide to prepare for the [Microsoft AZ-300 exam: Microsoft Azure Architect Technologies](https://www.microsoft.com/en-us/learning/exam-az-300.aspx) with [Pluralsight courses](http://www.pluralsight.com). This article maps each exam objective to a Pluralsight course. It will take you about **60 hours** to go through all these courses.
 
 >Courtesy of Microsoft and Pluralsight, you can get access to these courses for FREE! Follow the instructions here: https://help.pluralsight.com/help/microsoft-azure-courses.
 
@@ -12,7 +12,7 @@ The exam is divided in the following four high-level domains:
 5. [Develop for the Cloud and for Azure Storage](#develop-for-the-cloud-and-for-azure-storage) (20-25%) 
 
 ## Deploy and Configure Infrastructure
-This domain carries a weight of 25-30% and is divided in the following objectives. It will take you about **16 hours** to go through these courses. 
+This domain carries a weight of 25-30% and is divided in the following objectives. It will take you about **19 hours** to go through these courses. 
 
 | Id | Exam Objective| Pluralsight Course | Course length |
 |--| ----------- | ----------- |---------------|
@@ -58,7 +58,7 @@ This domain carries a weight of 5-10% and is divided in the following objectives
 
 
 ## Develop for the Cloud and for Azure Storage 
-This domain carries a weight of 20-25% and is divided in the following objectives. It will take you about **4 hours** to go through these courses. 
+This domain carries a weight of 20-25% and is divided in the following objectives. It will take you about **11 hours** to go through these courses. 
 
 |Id |Exam Objective| Pluralsight Course | Course length |
 |--| ----------- | ----------- |---------------|
