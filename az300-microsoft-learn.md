@@ -15,6 +15,7 @@ This section covers the topics that are not directly mapped to any exam objectiv
 | Id | Microsoft Learn Resources | Course length |
 |--| ----------- | --------------- |
 |0.1|[Azure fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)| 4h 17m|
+|0.2|[Architect great solutions in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/)| 4h 17m|
 
 ## Deploy and Configure Infrastructure
 This domain carries a weight of 25-30% and is divided in the following objectives. It will take you about **19 hours** to go through these courses. 
@@ -67,11 +68,10 @@ This domain carries a weight of 20-25% and is divided in the following objective
 
 |Id |Exam Objective| Microsoft Learn Resources | Course length |
 |--| ----------- | ----------- |---------------|
-|-|Basics not directly mapped to an exam objective|[Core Cloud Services - Azure data storage options](https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure)|25m|
-|5.1|Develop solutions that use Cosmos DB storage|[Learning Azure Cosmos DB]()|6h 6m|
-|5.2|Develop solutions that use a relational database|[Microsoft Azure Developer: Managing Azure SQL Database]()|2h 6m|
-|5.3|Configure a message-based integration architecture|[Microsoft Azure Developer: Identifying an Appropriate Integration Solution]()|1h 43m|
-|5.4|Develop for autoscaling|[Microsoft Azure Developer: Developing for Autoscaling]()|1h 44m|
+|5.1|Develop solutions that use Cosmos DB storage|[Work with NoSQL data in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/)|5h 55m|
+|5.2|Develop solutions that use a relational database|[Work with relational data in Azure](https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/)|3h 20m|
+|5.3|Configure a message-based integration architecture|[Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)|3h 31m|
+|5.4|Develop for autoscaling|<ul><li>[Design for performance and scalability in Azure](https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/)</li><li>[Dynamically meet changing web app performance requirements with autoscale rules](https://docs.microsoft.com/en-us/learn/modules/app-service-autoscale-rules/)</li></ul>| 1h 35m|
 
 ***
 Please send your feedback to kalbits@outlook.com
