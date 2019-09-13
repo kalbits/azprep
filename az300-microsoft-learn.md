@@ -12,7 +12,7 @@ The exam is divided in the following high-level domains:
 ## Basics
 This section covers the topics that are not directly mapped to any exam objectives but will help you cover the basic knowledge to understand other topics.
 | Id | Microsoft Learn Resources | Course length |
-|--| ----------- | ----------- |---------------|
+|--| ----------- | --------------- |
 |0.1|[Azure fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)| 4h 17m|
 
 ## Deploy and Configure Infrastructure
