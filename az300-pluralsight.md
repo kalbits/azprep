@@ -4,7 +4,7 @@ Use this handy guide to prepare for the [Microsoft AZ-300 exam: Microsoft Azure 
 
 >Courtesy of Microsoft and Pluralsight, you can get access to these courses for FREE! Follow the instructions here: https://help.pluralsight.com/help/microsoft-azure-courses.
 
-The exam is divided in the following four high-level domains:
+The exam is divided in the following high-level domains:
 1. [Deploy and Configure Infrastructure](#deploy-and-configure-infrastructure) (25-30%) 
 2. [Implement Workloads and Security](#implement-workloads-and-security) (20-25%)
 3. [Create and Deploy Apps](#create-and-deploy-apps) (5-10%) 
